@@ -1,6 +1,6 @@
 //https://www.youtube.com/watch?v=gcBPrGtUySs&ab_channel=SwiftixSoftware
 //
-// javascript er single thread execution
+// Javascript er single thread execution, modsat JAVA som har multi-threads
 //
 // I Javascript kan vi altså ikke have flere threads.
 // Til gengæld kan vi styre udførsel af kode med await.
